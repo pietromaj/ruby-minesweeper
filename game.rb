@@ -1,3 +1,4 @@
+#run brew install sdl2 before installing gosu gem
 require "gosu"
 require 'pry-byebug'
 require 'pry'
